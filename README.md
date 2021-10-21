@@ -8,3 +8,6 @@ I'm a web developer based in france who love to create and share ✨
 
 I also work on [TaloDev](https://talodev.fr), french based creative studio
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
