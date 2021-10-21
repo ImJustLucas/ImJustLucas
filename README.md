@@ -10,4 +10,9 @@ I also work on [TaloDev](https://talodev.fr), french based creative studio
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+Vue.js   3 hrs 7 mins    ███████████████████████▒░   93.42 % 
+PHP      9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+XML      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+```
 <!--END_SECTION:waka-->
