@@ -11,8 +11,6 @@ I also work on [TaloDev](https://talodev.fr), french based creative studio
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-PHP    2 hrs 29 mins   ████████████████░░░░░░░░░   63.48 % 
-Twig   1 hr 7 mins     ███████▒░░░░░░░░░░░░░░░░░   28.75 % 
-Bash   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
