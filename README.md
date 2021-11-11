@@ -11,6 +11,6 @@ I also work on [TaloDev](https://talodev.fr), french based creative studio
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js   2 hrs 35 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
