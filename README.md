@@ -11,6 +11,8 @@ I also work on [StudioTalo](https://talodev.fr), french based creative studio
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON         8 mins          █████████████░░░░░░░░░░░░   51.97 % 
+HTML         5 mins          ████████░░░░░░░░░░░░░░░░░   31.86 % 
+TypeScript   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 ```
 <!--END_SECTION:waka-->
