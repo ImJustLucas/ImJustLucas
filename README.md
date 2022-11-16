@@ -12,11 +12,11 @@ I also work on [StudioTalo](https://talodev.fr), french based creative studio
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 28 mins   ██████████████▓░░░░░░░░░░   59.29 %
-PHP          2 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   32.83 %
-Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Vue.js       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JavaScript   4 hrs 56 mins   █████████▓░░░░░░░░░░░░░░░   39.07 %
+Vue.js       4 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.19 %
+PHP          2 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
