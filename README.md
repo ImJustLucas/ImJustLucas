@@ -6,6 +6,8 @@
 
 I'm a web developer based in france who love to create and share ✨
 
+Founder of [Musy](https://musy.app)
+
 I also work on [StudioTalo](https://talodev.fr), french based creative studio
 
 📊 **This Week I Spent My Time On:**
