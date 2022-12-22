@@ -14,11 +14,12 @@ I also work on [StudioTalo](https://talodev.fr), french based creative studio
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       10 hrs 58 mins  █████████████▓░░░░░░░░░░░   54.46 %
-JavaScript   2 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-TypeScript   1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-JSON         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Other        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Vue.js       9 hrs 41 mins   ██████████▓░░░░░░░░░░░░░░   42.71 %
+JavaScript   6 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
+TypeScript   2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+JSON         1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Bash         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Other        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->
