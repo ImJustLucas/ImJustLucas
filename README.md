@@ -14,7 +14,7 @@ I also work on [StudioTalo](https://talodev.fr), french based creative studio
 <!--START_SECTION:waka-->
 
 ```text
-Other        7 hrs 55 mins   ███████████████████░░░░░░   75.75 %
+Other        17 hrs 6 mins   █████████████████████▒░░░   85.64 %
 ```
 
 <!--END_SECTION:waka-->
