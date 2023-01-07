@@ -18,3 +18,7 @@ Other        21 hrs 56 mins  █████████████████
 ```
 
 <!--END_SECTION:waka-->
+
+**Spotify Presence**
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=zelder175&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=zelder175&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&bar_color=e3f6fb&bar_color_cover=true)]]
