@@ -3,7 +3,9 @@
 I'm a web developer based in france who love to create and share ✨
 
 Fullstack web developer at [TheTricksNetwork](https://thetricksnetwork.com/) and work on [Tricks.social](https://tricks.social)
+
 Founder of [Musy](https://musy.app)
+
 I also work on [StudioTalo](https://talodev.fr), french based creative studio
 
 ## ⌨️ Experience
