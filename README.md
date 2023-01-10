@@ -25,9 +25,11 @@ Nest.js is on my learning list
 
 ## 📊 Wakatime
 <!--START_SECTION:waka-->
+
 ```text
 Other        22 hrs 54 mins  ██████████████████░░░░░░░   72.19 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## 🎵 Spotify Presence
