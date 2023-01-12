@@ -27,7 +27,7 @@ Nest.js is on my learning list
 <!--START_SECTION:waka-->
 
 ```text
-Other        22 hrs 24 mins  ████████████████▒░░░░░░░░   65.89 %
+Other        15 hrs          ████████████▒░░░░░░░░░░░░   49.38 %
 ```
 
 <!--END_SECTION:waka-->
