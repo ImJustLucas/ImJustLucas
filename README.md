@@ -10,7 +10,7 @@ I also work on [StudioTalo](https://talodev.fr), french based creative studio
 
 ## ⌨️ Experience
 
-I love to work on javascript framework such as Nuxt.js & Next.js for the frontend. Same for the back, javascript with express ect
+I love to work on javascript framework such as Nuxt.js & Next.js, express ect
 
 Currently learning Typescript & and improve my knowledge of React & Next.js
 
