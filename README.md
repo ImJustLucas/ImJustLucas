@@ -27,8 +27,8 @@ Nest.js is on my learning list
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       8 hrs 21 mins   █████████████▓░░░░░░░░░░░   54.64 %
-Other        3 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
+Vue.js       9 hrs 36 mins   ███████████████▓░░░░░░░░░   62.67 %
+Other        4 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   28.27 %
 ```
 
 <!--END_SECTION:waka-->
