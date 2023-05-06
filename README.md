@@ -27,12 +27,11 @@ Nest.js is on my learning list
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       4 hrs 45 mins   ████████████▓░░░░░░░░░░░░   50.90 %
-TypeScript   2 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.79 %
-JavaScript   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-CSS          37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Vue.js       6 hrs 5 mins    ██████████████▓░░░░░░░░░░   59.05 %
+JavaScript   1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+TypeScript   1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+CSS          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+JSON         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
