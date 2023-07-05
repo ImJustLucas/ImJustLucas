@@ -4,17 +4,13 @@ I'm a web developer based in france who love to create and share ✨
 
 Fullstack web developer at [TheTricksNetwork](https://thetricksnetwork.com/) and work on [Tricks.social](https://tricks.social)
 
-Founder of [Musy](https://musy.app)
+Founder of [Musy](https://musy.app) & [DAILY.YOU](https://daily-you.app)
 
 I also work on [StudioTalo](https://talodev.fr), french based creative studio
 
 ## ⌨️ Experience
 
-I love to work on javascript framework such as Nuxt.js & Next.js, express ect
-
-Currently learning Typescript & and improve my knowledge of React & Next.js
-
-Nest.js is on my learning list
+I love to work on javascript/typescript framework such as Nuxt.js & Next.js, Nest.js, express ect
 
 ## 📫 Contact
 
