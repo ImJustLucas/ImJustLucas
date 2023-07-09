@@ -23,11 +23,11 @@ I love to work on javascript/typescript framework such as Nuxt.js & Next.js, Nes
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   9 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   40.46 %
-Vue.js       5 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.36 %
-TypeScript   4 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.26 %
-JSON         1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Bash         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+TypeScript   10 hrs 51 mins  █████████▓░░░░░░░░░░░░░░░   38.21 %
+JavaScript   8 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.23 %
+Vue.js       5 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+JSON         1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Bash         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
