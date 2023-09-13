@@ -23,8 +23,8 @@ I love to work on javascript/typescript framework such as Nuxt.js & Next.js, Nes
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog         14 mins         ████████████████████████▒   97.61 %
-ActionScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Bash       6 mins          ███████████████████▓░░░░░   78.56 %
+GDScript   1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
 ```
 
 <!--END_SECTION:waka-->
