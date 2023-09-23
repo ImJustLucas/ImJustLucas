@@ -2,7 +2,7 @@
 
 I'm a web developer based in france who love to create and share ✨
 
-Fullstack web developer at [TheTricksNetwork](https://thetricksnetwork.com/) and work on [Tricks.social](https://tricks.social)
+web developer for [Favikon](https://favicon.com/) 💜
 
 Founder of [Musy](https://musy.app) & [DAILY.YOU](https://daily-you.app)
 
