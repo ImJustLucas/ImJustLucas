@@ -2,11 +2,9 @@
 
 I'm a software developer located in Paris, France, specializing in creating high-quality websites and applications. I am very passionate about my work, whether it is something silly or industry-changing. I hope you find something helpful or worth a laugh while browsing 💖
 
-Founder of [Musy](https://musy.app) & [DAILY.YOU](https://daily-you.app)
+Founder of multiple project & application, but i can't tell more for now 😿
 
 ## ⌨️ What i work with
-
-I love to work on javascript/typescript framework such as Nuxt.js & Next.js, Nest.js, express ect
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,7 +20,7 @@ I love to work on javascript/typescript framework such as Nuxt.js & Next.js, Nes
 
 ## Support Me 💸
 As much as I enjoy coding, it takes time and effort. In the future, I will try to open source most of my projects with an [MIT](https://opensource.org/licenses/MIT) or [ISC](https://opensource.org/licenses/ISC) license; This enables you to use anything I produce for free without attribution.
-Any support is very much appreciated, whether through donation or prs!
+Any support is very much appreciated!
 
 [Support 💕](https://www.buymeacoffee.com/imjustucas)
 
