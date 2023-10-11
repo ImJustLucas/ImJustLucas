@@ -1,23 +1,30 @@
 # Hi, im just Lucas ✌️
 
-I'm a web developer based in france who love to create and share ✨
-
-web developer for [Favikon](https://favicon.com/) 💜
+I'm a software developer located in Paris, France, specializing in creating high-quality websites and applications. I am very passionate about my work, whether it is something silly or industry-changing. I hope you find something helpful or worth a laugh while browsing 💖
 
 Founder of [Musy](https://musy.app) & [DAILY.YOU](https://daily-you.app)
 
-I also work on [StudioTalo](https://talodev.fr), french based creative studio
-
-## ⌨️ Experience
+## ⌨️ What i work with
 
 I love to work on javascript/typescript framework such as Nuxt.js & Next.js, Nest.js, express ect
 
-## 📫 Contact
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt JS](https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nest JS](https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbellier/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lucasblr.fr)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ImJustLucas_)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/luuucas.blr/)
+
+## Support Me 💸
+As much as I enjoy coding, it takes time and effort. In the future, I will try to open source most of my projects with an [MIT](https://opensource.org/licenses/MIT) or [ISC](https://opensource.org/licenses/ISC) license; This enables you to use anything I produce for free without attribution.
+Any support is very much appreciated, whether through donation or prs!
+
+[Support 💕](https://www.buymeacoffee.com/imjustucas)
 
 ## 📊 Wakatime
 <!--START_SECTION:waka-->
