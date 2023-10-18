@@ -1,6 +1,6 @@
 # Hi, im just Lucas ✌️
 
-I'm a software developer located in Paris, France, specializing in creating high-quality websites and applications. I am very passionate about my work, whether it is something silly or industry-changing. I hope you find something helpful or worth a laugh while browsing 💖
+Bonjour! I'm a software developer based in the heart of Paris, France, with a focus on crafting high-quality websites and applications.I'm truly passionate about what I do, whether it's a fun side project or a game-changer in the industry. Enjoy your stay, and I hope you stumble upon something useful or have a good laugh while exploring! 💖
 
 Founder of multiple project & application, but i can't tell more for now 😿
 
@@ -20,6 +20,7 @@ Founder of multiple project & application, but i can't tell more for now 😿
 
 ## Support Me 💸
 As much as I enjoy coding, it takes time and effort. In the future, I will try to open source most of my projects with an [MIT](https://opensource.org/licenses/MIT) or [ISC](https://opensource.org/licenses/ISC) license; This enables you to use anything I produce for free without attribution.
+
 Any support is very much appreciated!
 
 [Support 💕](https://www.buymeacoffee.com/imjustucas)
