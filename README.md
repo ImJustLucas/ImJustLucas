@@ -29,11 +29,11 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 hrs 55 mins  ███████████████▒░░░░░░░░░   61.87 %
-JavaScript   7 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   36.20 %
-Git          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-SCSS         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TypeScript   15 hrs 53 mins  ████████████████░░░░░░░░░   64.11 %
+JavaScript   8 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.35 %
+Git          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+SCSS         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
