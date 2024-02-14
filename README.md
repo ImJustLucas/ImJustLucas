@@ -1,6 +1,6 @@
 # Hi, im just Lucas ✌️
 
-Bonjour! I'm a software developer based in the heart of Paris, France, with a focus on crafting high-quality websites and applications.I'm truly passionate about what I do, whether it's a fun side project or a game-changer in the industry. Enjoy your stay, and I hope you stumble upon something useful or have a good laugh while exploring! 💖
+Bonjour! I'm a software developer based in the heart of Paris, France, with a focus on crafting high-quality websites and applications. I'm truly passionate about what I do, whether it's a fun side project or a game-changer in the industry. Enjoy your stay, and I hope you stumble upon something useful or have a good laugh while exploring! 💖
 
 Founder of multiple project & application, but i can't tell more for now 😿
 
