@@ -29,7 +29,8 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   2 hrs 9 mins    ██████████████▒░░░░░░░░░░   57.70 %
+SCSS         1 hr 34 mins    ██████████▓░░░░░░░░░░░░░░   42.30 %
 ```
 
 <!--END_SECTION:waka-->
