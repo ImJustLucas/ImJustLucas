@@ -2,15 +2,21 @@
   "name": "@imjustlucas/root",
   "private": true,
   "scripts": {
+    "pre-release": "manypkg check",
+    "pre-release:fix": "manypkg fix",
+    "version": "changeset version",
+    "release": "changeset publish",
     "build": "turbo build",
     "dev": "turbo dev",
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "prettier": "@imjustlucas/prettier-config",
-  "devDependencies": {
+  "dependencies": {
+    "@changesets/cli": "^2.27.1",
     "@imjustlucas/eslint-config": "workspace:*",
     "@imjustlucas/ts-config": "workspace:*",
+    "@manypkg/cli": "^0.21.3",
     "prettier": "^3.2.5",
     "turbo": "latest"
   },
