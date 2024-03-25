@@ -1,6 +1,5 @@
 {
   "name": "@imjustlucas/root",
-  "private": true,
   "scripts": {
     "pre-release": "manypkg check",
     "pre-release:fix": "manypkg fix",
@@ -23,5 +22,8 @@
   "packageManager": "pnpm@8.9.0",
   "engines": {
     "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
