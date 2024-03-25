@@ -9,24 +9,6 @@
     "allowJs": true,
     "jsx": "preserve",
     "noEmit": true,
-    "paths": {
-      "@components/*": ["./src/components/*"],
-      "@constants/*": ["./src/constants/*"],
-      "@contexts/*": ["./src/contexts/*"],
-      "@data/*": ["./src/data/*"],
-      "@hooks/*": ["./src/hooks/*"],
-      "@layouts/*": ["./src/layouts/*"],
-      "@pages/*": ["./src/pages/*"],
-      "@plugins/*": ["./src/plugins/*"],
-      "@services/*": ["./src/services/*"],
-      "@screens/*": ["./src/screens/*"],
-      "@stores/*": ["./src/stores/*"],
-      "@styles/*": ["./src/styles/*"],
-      "@themes/*": ["./src/themes/*"],
-      "@static/*": ["./public/*"],
-      "@typesDef/*": ["./src/types/*"],
-      "@utils/*": ["./src/utils/*"]
-    }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
 }
