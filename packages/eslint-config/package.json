@@ -1,19 +1,45 @@
 {
-  "name": "@repo/eslint-config",
-  "version": "0.0.0",
-  "private": true,
+  "name": "@imjustlucas/eslint-config",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
   "files": [
     "library.js",
     "next.js",
     "react-internal.js"
   ],
+  "prettier": "@imjustlucas/prettier-config",
+  "exports": {
+    ".": "./dist/index.js",
+    "./base": "./dist/base.js",
+    "./next-config": "./dist/next-config.js"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "lucas",
+    "imjustlucas"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
   "devDependencies": {
-    "@vercel/style-guide": "^5.2.0",
-    "eslint-config-turbo": "^1.12.4",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-only-warn": "^1.1.0",
-    "@typescript-eslint/parser": "^7.1.0",
+    "@types/eslint": "^8.56.6",
+    "@types/node": "^20.11.30",
     "@typescript-eslint/eslint-plugin": "^7.1.0",
+    "@typescript-eslint/parser": "^7.1.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-turbo": "^1.12.4",
+    "eslint-plugin-prettier": "^5.1.3",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-simple-import-sort": "^12.0.0",
+    "prettier": "^3.2.5",
+    "tsup": "^8.0.2",
     "typescript": "^5.3.3"
   }
 }

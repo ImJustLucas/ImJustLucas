@@ -1,5 +1,5 @@
 {
-  "name": "imjustluuucas",
+  "name": "@imjustlucas/root",
   "private": true,
   "scripts": {
     "build": "turbo build",
@@ -7,9 +7,10 @@
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
+  "prettier": "@imjustlucas/prettier-config",
   "devDependencies": {
-    "@repo/eslint-config": "workspace:*",
-    "@repo/typescript-config": "workspace:*",
+    "@imjustlucas/eslint-config": "workspace:*",
+    "@imjustlucas/ts-config": "workspace:*",
     "prettier": "^3.2.5",
     "turbo": "latest"
   },
