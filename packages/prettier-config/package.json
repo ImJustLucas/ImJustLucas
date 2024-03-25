@@ -11,12 +11,10 @@
     "@imjustlucas",
     "@imjustlucas/prettier-config"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/imjustlucas/prettier-config"
-  },
   "homepage": "https://github.com/imjustlucas/prettier-config",
   "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
     "access": "public"
-  }
+  },
+  "repository": "https://github.com/ImJustLucas/ImJustLucas/tree/main/packages/prettier-config"
 }

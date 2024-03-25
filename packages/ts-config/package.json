@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "license": "MIT",
   "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
     "access": "public"
-  }
+  },
+  "repository": "https://github.com/ImJustLucas/ImJustLucas/tree/main/packages/ts-config"
 }

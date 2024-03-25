@@ -37,6 +37,8 @@
     "typescript": "^5.3.3"
   },
   "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
     "access": "public"
-  }
+  },
+  "repository": "https://github.com/ImJustLucas/ImJustLucas/tree/main/packages/eslint-config"
 }
