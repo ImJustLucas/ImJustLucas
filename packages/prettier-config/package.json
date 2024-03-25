@@ -15,5 +15,8 @@
     "type": "git",
     "url": "https://github.com/imjustlucas/prettier-config"
   },
-  "homepage": "https://github.com/imjustlucas/prettier-config"
+  "homepage": "https://github.com/imjustlucas/prettier-config",
+  "publishConfig": {
+    "access": "public"
+  }
 }

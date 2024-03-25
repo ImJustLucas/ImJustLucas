@@ -1,5 +1,4 @@
 import { Linter } from "eslint";
-import { BaseConfig } from "./base";
 
 export const NextConfig: Linter.Config = {
   root: true,
