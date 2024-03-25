@@ -1,0 +1,3 @@
+{
+  "extends": "@imjustlucas/ts-config/base.json"
+}
