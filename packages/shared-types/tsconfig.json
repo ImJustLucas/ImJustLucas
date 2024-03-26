@@ -1,0 +1,5 @@
+{
+  "extends": "@imjustlucas/ts-config/base.json",
+  "include": ["./src/**/*.ts"],
+  "exclude": ["dist", "build", "node_modules"]
+}
