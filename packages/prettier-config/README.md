@@ -16,6 +16,14 @@ pnpm add -D prettier
 
 Add the `@imjustlucas/prettier-config` to your project:
 
+First, you need to configure the package registry in your `.npmrc` file at the root of your project:
+
+```bash
+@imjustlucas:registry=https://npm.pkg.github.com
+```
+
+Then, install the package by running the following command in your terminal:
+
 ```bash
 pnpm add -D @imjustlucas/prettier-config
 ```

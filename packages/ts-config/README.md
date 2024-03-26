@@ -10,7 +10,15 @@ Welcome to **@imjustlucas/ts-config** - your ultimate solution for kickstarting 
 
 ## Installation 💻
 
-Get started by installing the package in your project. Run the following command in your terminal:
+Get started by installing the package in your project.
+
+First, you need to configure the package registry in your `.npmrc` file at the root of your project:
+
+```bash
+@imjustlucas:registry=https://npm.pkg.github.com
+```
+
+Then, install the package by running the following command in your terminal:
 
 ```bash
 npm install @imjustlucas/ts-config --save-dev

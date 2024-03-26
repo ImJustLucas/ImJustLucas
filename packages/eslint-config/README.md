@@ -12,6 +12,14 @@ Welcome to **@imjustlucas/eslint-config** - your go-to solution for superchargin
 
 Elevate your project's linting game by installing the package with the following command:
 
+First, you need to configure the package registry in your `.npmrc` file at the root of your project:
+
+```bash
+@imjustlucas:registry=https://npm.pkg.github.com
+```
+
+Then, install the package by running the following command in your terminal:
+
 ```bash
 npm install @imjustlucas/eslint-config --save-dev
 ```
