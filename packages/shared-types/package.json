@@ -1,17 +1,18 @@
 {
   "name": "@imjustlucas/shared-types",
   "version": "0.0.1",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "description": "Shared-types for  ",
+  "main": "dist/imjustlucas-shared-types.cjs.js",
+  "module": "dist/imjustlucas-shared-types.esm.js",
   "license": "MIT",
-  "scripts": {
-    "build": "tsup",
-    "dev": "tsup --watch"
+  "preconstruct": {
+    "entrypoints": [
+      "index.ts"
+    ]
   },
   "devDependencies": {
     "@imjustlucas/ts-config": "workspace:*",
     "@types/node": "^20.6.0",
-    "tsup": "^8.0.0",
     "typescript": "^5.4.2"
   },
   "publishConfig": {
