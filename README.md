@@ -29,11 +29,11 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          6 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
-Twig         3 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-JSON         3 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
-TypeScript   2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-Other        52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+PHP          6 hrs 54 mins   ████████▓░░░░░░░░░░░░░░░░   34.20 %
+Twig         4 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+JSON         3 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
+TypeScript   1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+YAML         1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
 ```
 
 <!--END_SECTION:waka-->
