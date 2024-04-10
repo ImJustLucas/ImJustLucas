@@ -25,6 +25,8 @@ Any support is very much appreciated!
 
 [Support 💕](https://www.buymeacoffee.com/imjustucas)
 
+<img src="https://komarev.com/ghpvc/?username=ImJustLucas&label=Profile%20views&color=0e75b6&style=flat" alt="ImJustLucas" />
+
 ## 📊 Wakatime
 <!--START_SECTION:waka-->
 
