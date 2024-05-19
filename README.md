@@ -33,7 +33,7 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    19 hrs 10 mins  ████████████████████▒░░░░   81.38 %
+TypeScript    19 hrs 10 mins  ████████████████████▒░░░░   81.37 %
 JSON          2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
 YAML          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 TSConfig      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
