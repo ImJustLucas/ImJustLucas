@@ -33,10 +33,11 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 32 mins   █████████████████▓░░░░░░░   70.47 %
-JavaScript   1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
-SCSS         1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   5 hrs 19 mins   ███████████████░░░░░░░░░░   60.54 %
+SCSS         1 hr 50 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+JavaScript   1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
