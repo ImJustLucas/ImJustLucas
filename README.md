@@ -33,11 +33,11 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        4 hrs 48 mins   █████████████▓░░░░░░░░░░░   54.17 %
-JavaScript        2 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.88 %
-YAML              38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-Java Properties   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Other             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JavaScript        5 hrs 42 mins   █████████████░░░░░░░░░░░░   52.35 %
+TypeScript        4 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   42.34 %
+Java Properties   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+YAML              13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Other             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
