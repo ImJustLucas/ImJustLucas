@@ -46,4 +46,4 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 🎵 Spotify Presence
 
-[![spotify-github-profile]([https://spotify-github-profile.vercel.app](https://spotify-github-profile.kittinanx.com)/api/view?uid=zelder175&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&bar_color=e3f6fb&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=zelder175&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zelder175&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zelder175&redirect=true)
