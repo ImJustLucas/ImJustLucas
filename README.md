@@ -4,6 +4,8 @@ Bonjour! I'm a software developer based in the heart of Paris, France, with a fo
 
 Founder of [Qotum](https://github.com/qotum) & [Kascad](https://github.com/kascad-app)
 
+student at IIM
+
 ## ⌨️ What i work with
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,4 +46,4 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 🎵 Spotify Presence
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zelder175&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&bar_color=e3f6fb&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zelder175&redirect=true)
+[![spotify-github-profile]([https://spotify-github-profile.vercel.app](https://spotify-github-profile.kittinanx.com)/api/view?uid=zelder175&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&bar_color=e3f6fb&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=zelder175&redirect=true)
