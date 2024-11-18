@@ -27,7 +27,7 @@ As much as I enjoy coding, it takes time and effort. In the future, I will try t
 
 Any support is very much appreciated!
 
-[Support 💕](https://www.buymeacoffee.com/imjustucas)
+<iframe src="https://github.com/sponsors/ImJustLucas/button" title="Sponsor ImJustLucas" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 <img src="https://komarev.com/ghpvc/?username=ImJustLucas&label=Profile%20views&color=0e75b6&style=flat" alt="ImJustLucas" />
 
