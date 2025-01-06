@@ -35,8 +35,8 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 19 mins   ██████████████░░░░░░░░░░░   55.45 %
-TypeScript   2 hrs 40 mins   ███████████░░░░░░░░░░░░░░   44.53 %
+TypeScript   4 hrs 11 mins   ██████████████░░░░░░░░░░░   55.83 %
+JavaScript   3 hrs 19 mins   ███████████░░░░░░░░░░░░░░   44.15 %
 Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
