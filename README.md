@@ -35,11 +35,11 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         5 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   36.37 %
-Docker       3 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Python       2 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-JSON         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-TypeScript   1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+YAML         5 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.31 %
+Docker       3 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
+TypeScript   3 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
+Python       2 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+JSON         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
 ```
 
 <!--END_SECTION:waka-->
