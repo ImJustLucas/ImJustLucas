@@ -35,10 +35,7 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 53 mins    ████████████████████████░   96.05 %
-JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
