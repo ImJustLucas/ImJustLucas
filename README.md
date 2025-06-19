@@ -2,7 +2,7 @@
 
 Bonjour! I'm a software developer based in the heart of Paris, France, with a focus on crafting high-quality websites and applications. I'm truly passionate about what I do, whether it's a fun side project or a game-changer in the industry. Enjoy your stay, and I hope you stumble upon something useful or have a good laugh while exploring! 💖
 
-Founder of [Qotum](https://github.com/qotum) ・ RiderFund (more informations very soon :o)
+Founder of  [Kascad](https://github.com/kascad-app) ・ [Predi.GG](https://github.com/predi-gg) ・ [Qotum](https://github.com/qotum)
 
 student at IIM
 
