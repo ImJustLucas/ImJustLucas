@@ -33,10 +33,9 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 31 mins   ████████████████████▒░░░░   81.98 %
-JSON         53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Bash         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript   3 hrs 35 mins   ██████████████████████▓░░   90.13 %
+JSON         23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
