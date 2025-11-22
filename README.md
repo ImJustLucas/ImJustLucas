@@ -33,11 +33,8 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 hr 18 mins    ██████████████████████░░░   88.46 %
-TypeScript   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-CocoaPods    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TypeScript   29 mins         ███████████████████▓░░░░░   78.75 %
+JSON         8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
 ```
 
 <!--END_SECTION:waka-->
