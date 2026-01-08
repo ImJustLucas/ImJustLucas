@@ -33,7 +33,8 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   26 mins         █████████████████████░░░░   83.59 %
+YAML         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
 ```
 
 <!--END_SECTION:waka-->
