@@ -33,10 +33,8 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 19 mins          ██████████████████████░░░   87.61 %
-Other        7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Bash         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Markdown     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other        1 hr 33 mins          ████████████████████████▒   97.35 %
+TypeScript   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
