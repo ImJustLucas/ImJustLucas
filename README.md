@@ -33,8 +33,7 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 57 mins          ████████████████████████▓   99.17 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TypeScript   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
