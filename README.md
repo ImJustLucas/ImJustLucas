@@ -33,7 +33,9 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        37 mins               ████████████▒░░░░░░░░░░░░   49.04 %
+TypeScript   30 mins               ██████████░░░░░░░░░░░░░░░   39.71 %
+Markdown     8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
 ```
 
 <!--END_SECTION:waka-->
