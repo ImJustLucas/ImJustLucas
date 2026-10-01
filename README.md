@@ -33,11 +33,11 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs                 █████████████▒░░░░░░░░░░░   53.71 %
-TypeScript   4 hrs 11 mins         █████████▒░░░░░░░░░░░░░░░   37.38 %
-Other        31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-SQL          22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-CSS          6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Markdown     6 hrs 42 mins         ████████████░░░░░░░░░░░░░   48.07 %
+TypeScript   4 hrs 56 mins         █████████░░░░░░░░░░░░░░░░   35.45 %
+Other        2 hrs 1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Text         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+CSS          6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
