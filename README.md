@@ -33,9 +33,7 @@ Any support is very much appreciated!
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   47 mins               █████████████▓░░░░░░░░░░░   55.04 %
-Other      35 mins               ██████████▒░░░░░░░░░░░░░░   40.91 %
-Bash       3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
